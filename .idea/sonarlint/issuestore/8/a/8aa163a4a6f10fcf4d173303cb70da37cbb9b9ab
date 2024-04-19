@@ -1,0 +1,9 @@
+
+Ž
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Þýÿÿÿÿ8£“åŸß1
+S	java:S106"9Replace this use of System.out or System.err by a logger.(£®÷Öøÿÿÿÿ
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(ÛÔ¸Ù
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(Ëÿ¾ºúÿÿÿÿ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(Ëÿ¾ºúÿÿÿÿ
+X	java:S125,"<This block of commented-out lines of code should be removed.(Ò¥Ëž8šªäŸß1
+]	java:S1255"<This block of commented-out lines of code should be removed.(½½„‚ýÿÿÿÿ8ÂýãŸß1

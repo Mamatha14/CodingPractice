@@ -1,0 +1,9 @@
+
+X
+java:S1854
+"=Remove this useless assignment to local variable "arrayList".(ö±äËÿÿÿÿÿ
+I
+java:S1481
+".Remove this unused "arrayList" local variable.(ö±äËÿÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(Å˜áòıÿÿÿÿ
+J	java:S108")Either remove or fill this block of code.(¹­ì‘şÿÿÿÿ8¬…©òº1
